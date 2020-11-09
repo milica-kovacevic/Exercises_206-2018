@@ -17,5 +17,9 @@ namespace Exercises_206_2018
             InitializeComponent();
         }
 
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
